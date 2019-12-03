@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[养生咨询须知]]></title>
-  <link href="https://fofen.fun/atom.xml" rel="self"/>
-  <link href="https://fofen.fun/"/>
-  <updated>2019-11-28T10:54:46+08:00</updated>
-  <id>https://fofen.fun/</id>
+  <link href="https://fofen.github.io/atom.xml" rel="self"/>
+  <link href="https://fofen.github.io/"/>
+  <updated>2019-12-03T18:16:54+08:00</updated>
+  <id>https://fofen.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[养生咨询须知]]></title>
-    <link href="https://fofen.fun/15688010887417.html"/>
+    <link href="https://fofen.github.io/15688010887417.html"/>
     <updated>2019-09-18T18:04:48+08:00</updated>
-    <id>https://fofen.fun/15688010887417.html</id>
+    <id>https://fofen.github.io/15688010887417.html</id>
     <content type="html"><![CDATA[
 <h2 id="toc_0">一、咨询必读</h2>
 
@@ -52,9 +52,9 @@
   
   <entry>
     <title type="html"><![CDATA[如何抓药？如何泡药？]]></title>
-    <link href="https://fofen.fun/yao.html"/>
+    <link href="https://fofen.github.io/yao.html"/>
     <updated>2019-09-24T14:23:15+08:00</updated>
-    <id>https://fofen.fun/yao.html</id>
+    <id>https://fofen.github.io/yao.html</id>
     <content type="html"><![CDATA[
 <h2 id="toc_0">如果自己去药店买药，请注意：</h2>
 
@@ -108,24 +108,24 @@
 
 <p><em>说明：</em>「匙」是娃哈哈八宝粥里面的小匙子，白术如匙子大小即可。</p>
 
-<h5 id="toc_5"><a href="lzyr.html">一、「苓术养仁汤」抓药图示</a></h5>
+<h5 id="toc_5"><a href="xjl1.html">1. 小剂量图示（一）</a></h5>
 
-<h5 id="toc_6"><a href="mwyr.html">二、「麦味养仁汤」抓药图示</a></h5>
+<h5 id="toc_6"><a href="xjl2.html">2. 小剂量图示（二）</a></h5>
 
-<h5 id="toc_7"><a href="lzyz.html">三、「苓术益智汤」抓药图示</a></h5>
+<h5 id="toc_7"><a href="xjl3.html">3. 小剂量图示（三）</a></h5>
 
-<h5 id="toc_8"><a href="mwyz.html">四、「麦味益智汤」抓药图示</a></h5>
+<h5 id="toc_8"><a href="xjl4.html">4. 小剂量图示（四）</a></h5>
 
-<h5 id="toc_9"><a href="dyt.html">五、「大衍汤」抓药图示</a></h5>
+<h5 id="toc_9"><a href="xjl5.html">5. 小剂量图示（五）</a></h5>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[化糖与降糖的区别]]></title>
-    <link href="https://fofen.fun/htyjt.html"/>
+    <link href="https://fofen.github.io/htyjt.html"/>
     <updated>2019-11-02T10:00:33+08:00</updated>
-    <id>https://fofen.fun/htyjt.html</id>
+    <id>https://fofen.github.io/htyjt.html</id>
     <content type="html"><![CDATA[
 <p>作者：三七生</p>
 
@@ -142,9 +142,9 @@
   
   <entry>
     <title type="html"><![CDATA[关于胰岛素的性质问题]]></title>
-    <link href="https://fofen.fun/ydsdxz.html"/>
+    <link href="https://fofen.github.io/ydsdxz.html"/>
     <updated>2019-11-02T10:00:07+08:00</updated>
-    <id>https://fofen.fun/ydsdxz.html</id>
+    <id>https://fofen.github.io/ydsdxz.html</id>
     <content type="html"><![CDATA[
 <p>作者：三七生</p>
 
@@ -165,9 +165,9 @@
   
   <entry>
     <title type="html"><![CDATA[对“优降糖”的作用原理的质疑]]></title>
-    <link href="https://fofen.fun/yjtzyyl.html"/>
+    <link href="https://fofen.github.io/yjtzyyl.html"/>
     <updated>2019-11-02T09:59:53+08:00</updated>
-    <id>https://fofen.fun/yjtzyyl.html</id>
+    <id>https://fofen.github.io/yjtzyyl.html</id>
     <content type="html"><![CDATA[
 <p>作者：三七生</p>
 
@@ -206,9 +206,9 @@
   
   <entry>
     <title type="html"><![CDATA[糖尿病与经济危机]]></title>
-    <link href="https://fofen.fun/tnbyjjwj.html"/>
+    <link href="https://fofen.github.io/tnbyjjwj.html"/>
     <updated>2019-11-02T09:59:33+08:00</updated>
-    <id>https://fofen.fun/tnbyjjwj.html</id>
+    <id>https://fofen.github.io/tnbyjjwj.html</id>
     <content type="html"><![CDATA[
 <p>作者：三七生</p>
 
@@ -225,9 +225,9 @@
   
   <entry>
     <title type="html"><![CDATA[糖尿病概说]]></title>
-    <link href="https://fofen.fun/tnbgs.html"/>
+    <link href="https://fofen.github.io/tnbgs.html"/>
     <updated>2019-11-02T09:58:20+08:00</updated>
-    <id>https://fofen.fun/tnbgs.html</id>
+    <id>https://fofen.github.io/tnbgs.html</id>
     <content type="html"><![CDATA[
 <p>作者：三七生</p>
 
@@ -248,9 +248,9 @@
   
   <entry>
     <title type="html"><![CDATA[人体为什么会发烧？中国人为什么怕发烧？]]></title>
-    <link href="https://fofen.fun/wsmfs.html"/>
+    <link href="https://fofen.github.io/wsmfs.html"/>
     <updated>2019-10-23T19:06:30+08:00</updated>
-    <id>https://fofen.fun/wsmfs.html</id>
+    <id>https://fofen.github.io/wsmfs.html</id>
     <content type="html"><![CDATA[
 <p>　　首先，人这个物质的身体，也是由各种分子排列组合而成的。</p>
 
@@ -271,9 +271,9 @@
   
   <entry>
     <title type="html"><![CDATA[小儿感冒误治的恶果]]></title>
-    <link href="https://fofen.fun/gmwz.html"/>
+    <link href="https://fofen.github.io/gmwz.html"/>
     <updated>2019-10-12T10:50:53+08:00</updated>
-    <id>https://fofen.fun/gmwz.html</id>
+    <id>https://fofen.github.io/gmwz.html</id>
     <content type="html"><![CDATA[
 <p>首先记住：通常情况下，感冒之后的发烧是身体免疫系统对外邪的<strong>抵抗</strong>，要顺应它，不要阻碍它。</p>
 
@@ -295,9 +295,9 @@
   
   <entry>
     <title type="html"><![CDATA[咨询流程]]></title>
-    <link href="https://fofen.fun/liuc.html"/>
+    <link href="https://fofen.github.io/liuc.html"/>
     <updated>2019-10-12T10:21:40+08:00</updated>
-    <id>https://fofen.fun/liuc.html</id>
+    <id>https://fofen.github.io/liuc.html</id>
     <content type="html"><![CDATA[
 <h5 id="toc_0">一、联系您要咨询的老师，索取《咨询单》并按要求填写；</h5>
 
@@ -325,79 +325,95 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[大衍汤]]></title>
-    <link href="https://fofen.fun/dyt.html"/>
+    <title type="html"><![CDATA[小剂量图示（五）]]></title>
+    <link href="https://fofen.github.io/xjl5.html"/>
     <updated>2019-10-08T21:34:08+08:00</updated>
-    <id>https://fofen.fun/dyt.html</id>
+    <id>https://fofen.github.io/xjl5.html</id>
     <content type="html"><![CDATA[
 <h4 id="toc_0">图中硬币为一元</h4>
 
-<p>党参一匙，炒白术一片，茯苓一块(一个花生米大)，炙甘草一匙，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，桃仁一个，干姜一块（半个花生米大），枸杞子三个，当归两小片。<br/>
-<img src="media/15693061951407/dyf.jpg" alt="dyf"/></p>
+<p>党参一匙，炒白术一片，茯苓一块(一个花生米大)，炙甘草一匙，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，桃仁一个，干姜一块（半个花生米大），枸杞子三个，当归两小片。</p>
+
+<p><em>（匙为「娃哈哈八宝粥」的小匙）</em></p>
+
+<p><img src="media/15693061951407/dyf.jpg" alt="dyf"/></p>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[麦味益智汤]]></title>
-    <link href="https://fofen.fun/mwyz.html"/>
+    <title type="html"><![CDATA[小剂量图示（四）]]></title>
+    <link href="https://fofen.github.io/xjl4.html"/>
     <updated>2019-10-08T21:34:07+08:00</updated>
-    <id>https://fofen.fun/mwyz.html</id>
+    <id>https://fofen.github.io/xjl4.html</id>
     <content type="html"><![CDATA[
 <h3 id="toc_0">图中硬币为一元</h3>
 
-<p>党参一匙，麦冬2个，五味子4个，炙甘草一匙，干姜一块(半个花生米大)，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，枸杞子三个。<img src="media/15693061951407/yzt2.jpg" alt="yzt2"/></p>
+<p>党参一匙，麦冬2个，五味子4个，炙甘草一匙，干姜一块(半个花生米大)，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，枸杞子三个。</p>
+
+<p><em>（匙为「娃哈哈八宝粥」的小匙）</em></p>
+
+<p><img src="media/15693061951407/yzt2.jpg" alt="yzt2"/></p>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[苓术益智汤]]></title>
-    <link href="https://fofen.fun/lzyz.html"/>
+    <title type="html"><![CDATA[小剂量图示（三）]]></title>
+    <link href="https://fofen.github.io/xjl3.html"/>
     <updated>2019-10-08T21:34:06+08:00</updated>
-    <id>https://fofen.fun/lzyz.html</id>
+    <id>https://fofen.github.io/xjl3.html</id>
     <content type="html"><![CDATA[
 <h3 id="toc_0">图中硬币为一元</h3>
 
-<p>党参一匙，炒白术一片，茯苓一块(一个花生米大)，炙甘草一匙，干姜一块(半个花生米大)，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，枸杞子三个。<br/>
-<img src="media/15693061951407/yzt1.jpg" alt="yzt1"/></p>
+<p>党参一匙，炒白术一片，茯苓一块(一个花生米大)，炙甘草一匙，干姜一块(半个花生米大)，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，枸杞子三个。</p>
+
+<p><em>（匙为「娃哈哈八宝粥」的小匙）</em></p>
+
+<p><img src="media/15693061951407/yzt1.jpg" alt="yzt1"/></p>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[麦味养仁汤]]></title>
-    <link href="https://fofen.fun/mwyr.html"/>
+    <title type="html"><![CDATA[小剂量图示（二）]]></title>
+    <link href="https://fofen.github.io/xjl2.html"/>
     <updated>2019-10-08T21:34:04+08:00</updated>
-    <id>https://fofen.fun/mwyr.html</id>
+    <id>https://fofen.github.io/xjl2.html</id>
     <content type="html"><![CDATA[
 <h3 id="toc_0">图中硬币为一元</h3>
 
-<p>党参一匙，麦冬2个，五味子4个，炙甘草一匙，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，桃仁一个，枸杞子三个。<br/>
-<img src="media/15693061951407/yrt2.jpg" alt="yrt2"/></p>
+<p>党参一匙，麦冬2个，五味子4个，炙甘草一匙，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，桃仁一个，枸杞子三个。</p>
+
+<p><em>（匙为「娃哈哈八宝粥」的小匙）</em></p>
+
+<p><img src="media/15693061951407/yrt2.jpg" alt="yrt2"/></p>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[苓术养仁汤]]></title>
-    <link href="https://fofen.fun/lzyr.html"/>
+    <title type="html"><![CDATA[小剂量图示（一）]]></title>
+    <link href="https://fofen.github.io/xjl1.html"/>
     <updated>2019-10-08T21:33:27+08:00</updated>
-    <id>https://fofen.fun/lzyr.html</id>
+    <id>https://fofen.github.io/xjl1.html</id>
     <content type="html"><![CDATA[
 <h3 id="toc_0">图中硬币为一元</h3>
 
-<p>党参一匙，炒白术一片，茯苓一块(一个花生米大)，炙甘草一匙，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，桃仁一个，枸杞子三个。<br/>
-<img src="media/15693061951407/yrt1.jpg" alt="yrt1"/></p>
+<p>党参一匙，炒白术一片，茯苓一块(一个花生米大)，炙甘草一匙，菟丝子一平匙，益智仁三分之一个(碎的用八粒)，桃仁一个，枸杞子三个。</p>
+
+<p><em>（匙为「娃哈哈八宝粥」的小匙）</em></p>
+
+<p><img src="media/15693061951407/yrt1.jpg" alt="yrt1"/></p>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[牛奶不是好东西，会带走孩子的健康！]]></title>
-    <link href="https://fofen.fun/milk.html"/>
+    <link href="https://fofen.github.io/milk.html"/>
     <updated>2019-09-25T09:43:42+08:00</updated>
-    <id>https://fofen.fun/milk.html</id>
+    <id>https://fofen.github.io/milk.html</id>
     <content type="html"><![CDATA[
 <p>远离牛奶，远离牛奶，远离牛奶！</p>
 
@@ -414,9 +430,9 @@
   
   <entry>
     <title type="html"><![CDATA[退病反应须知]]></title>
-    <link href="https://fofen.fun/tbfy.html"/>
+    <link href="https://fofen.github.io/tbfy.html"/>
     <updated>2019-09-18T19:31:39+08:00</updated>
-    <id>https://fofen.fun/tbfy.html</id>
+    <id>https://fofen.github.io/tbfy.html</id>
     <content type="html"><![CDATA[
 <p>作者: 三七生</p>
 
@@ -439,9 +455,9 @@
   
   <entry>
     <title type="html"><![CDATA[养病服药必读]]></title>
-    <link href="https://fofen.fun/ybfybd.html"/>
+    <link href="https://fofen.github.io/ybfybd.html"/>
     <updated>2019-09-07T17:23:59+08:00</updated>
-    <id>https://fofen.fun/ybfybd.html</id>
+    <id>https://fofen.github.io/ybfybd.html</id>
     <content type="html"><![CDATA[
 <p>作者: 三七生</p>
 
@@ -476,9 +492,9 @@
   
   <entry>
     <title type="html"><![CDATA[伤精患者须知——手淫的危害及其后果]]></title>
-    <link href="https://fofen.fun/shangjing.html"/>
+    <link href="https://fofen.github.io/shangjing.html"/>
     <updated>2019-09-07T17:23:28+08:00</updated>
-    <id>https://fofen.fun/shangjing.html</id>
+    <id>https://fofen.github.io/shangjing.html</id>
     <content type="html"><![CDATA[
 <p>作者: 三七生</p>
 
@@ -509,9 +525,9 @@
   
   <entry>
     <title type="html"><![CDATA[调整期间，请注意：]]></title>
-    <link href="https://fofen.fun/notice.html"/>
+    <link href="https://fofen.github.io/notice.html"/>
     <updated>2019-09-06T20:38:34+08:00</updated>
-    <id>https://fofen.fun/notice.html</id>
+    <id>https://fofen.github.io/notice.html</id>
     <content type="html"><![CDATA[
 <ol>
 <li>禁服<strong>西药</strong>及<strong>其他中药</strong>；</li>
